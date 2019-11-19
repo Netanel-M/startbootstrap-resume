@@ -174,3 +174,46 @@ a {
 a:hover, a:focus, a:active {
   color: #182825;
 }
+.projectimages {
+    padding-bottom:2rem;
+    width: 60%;
+    height: auto;
+}
+
+.linuxskills li {
+    list-style-type: none;
+}
+
+.devopsskills li {
+    list-style-type: none;
+}
+.devopsskills li i span{
+    font-weight: normal;
+}
+.windowsskills li {
+    list-style-type: none;
+}
+
+.hardwareskills li i span {
+    font-weight: normal;
+}
+.hardwareskills li {
+    list-style-type: none;
+}
+.networkessentialsskills li {
+    list-style-type: none;
+}
+
+.networkessentialsskills li i span {
+    font-weight: normal;
+}
+
+.programmingskills li {
+    list-style-type: none;
+}
+
+
+.programmingskills li i span {
+    font-weight: normal;
+}
+
